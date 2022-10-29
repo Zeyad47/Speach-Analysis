@@ -41,4 +41,15 @@ o turtle
 o numpy
 ```
 ### 3. Now you are ready to run the app
+```
+The app implements the Blackboard archetecture pattern as each KS accesses the blackboard once at a time and changes are then saved to the back KS and main board.
+```
 
+## The app has multiple fuctions with the crown jewels being: 
+```
+- Spelling Check
+- Grammar Check 
+- Punctuaction Check
+- Word Frequency Analysis
+- Sentiment Analysis
+```
